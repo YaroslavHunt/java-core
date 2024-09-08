@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Dog {
     private String name;
 

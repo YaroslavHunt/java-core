@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Car {
     private String model;
 
